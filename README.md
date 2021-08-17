@@ -1,5 +1,5 @@
 # Hello da
-<img src="https://i.imgur.com/pmni0T1.gif" alt="banner - software engineer">
+<img src="https://i.imgur.com/L6sxZby.gifv" alt="banner - software engineer">
 
 
 - 🔭 I’m currently working on the university...
