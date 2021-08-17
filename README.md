@@ -1,5 +1,5 @@
 # Hello da
-![banner](https://i.imgur.com/pmni0T1.gif)
+![banner](https://i.imgur.com/x1pXiqb.gif)
 
 - 🔭 I’m currently working on the university...
 - 🌱 I’m currently learning Python 🐍 
