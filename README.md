@@ -1,5 +1,5 @@
 # Hello da
-![banner - software engineer](https://i.imgur.com/pmni0T1.gif)
+![banner](https://i.imgur.com/pmni0T1.gif)
 
 - 🔭 I’m currently working on the university...
 - 🌱 I’m currently learning Python 🐍 
