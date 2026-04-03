@@ -7,8 +7,8 @@
 <img src="https://i.imgur.com/x1pXiqb.gif" alt="Banner" width="85%" />
 
 <p>
-  <a href="https://github.com/alexisloyag">
-    <img src="https://img.shields.io/badge/GitHub-alexisloyag-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/AlexisLoya">
+    <img src="https://img.shields.io/badge/GitHub-AlexisLoya-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/alexisloyag/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,13 +16,13 @@
   <a href="https://www.youtube.com/channel/UCL-6Vchi1y5l765lFOO8iiA">
     <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://twitter.com/LasterLG117">
-    <img src="https://img.shields.io/badge/X-@LasterLG117-000000?style=for-the-badge&logo=x" alt="X" />
+  <a href="https://twitter.com/eseloya">
+    <img src="https://img.shields.io/badge/X-@eseloya-000000?style=for-the-badge&logo=x" alt="X" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=alexisloyag&label=Visitas&color=00D084&style=flat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=AlexisLoya&label=Visitas&color=00D084&style=flat-square" alt="Visitas" />
 </p>
 
 </div>
@@ -46,7 +46,7 @@ Construyo **backends en Python/Django**, APIs REST y sistemas empresariales esca
 </div>
 
 <div align="center" style="margin-top:8px">
-  <img height="80" src="https://github-profile-trophy.vercel.app/?username=alexisloyag&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img height="80" src="https://github-profile-trophy.vercel.app/?username=AlexisLoya&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -62,19 +62,19 @@ Construyo **backends en Python/Django**, APIs REST y sistemas empresariales esca
 ## GitHub en vivo (Dinámico)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexisloyag&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexisLoya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub" />
 </div>
 
 <div align="center" style="margin-top:6px">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisloyag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisLoya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 </div>
 
 <div align="center" style="margin-top:6px">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=alexisloyag&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=AlexisLoya&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 <div align="center" style="margin-top:12px">
-  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=alexisloyag&theme=tokyo-night&hide_border=true&area=true&line=2&point=4" alt="Activity Graph" />
+  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisLoya&theme=tokyo-night&hide_border=true&area=true&line=2&point=4" alt="Activity Graph" />
 </div>
 
 ---
@@ -83,9 +83,10 @@ Construyo **backends en Python/Django**, APIs REST y sistemas empresariales esca
 
 | Plataforma | Enlace |
 |------------|--------|
-| **LinkedIn** | [alexisloyag](https://www.linkedin.com/in/alexisloyag/) |
-| **GitHub** | [@alexisloyag](https://github.com/alexisloyag) |
+| **LinkedIn** | [AlexisLoya](https://www.linkedin.com/in/alexisloyag/) |
+| **GitHub** | [@AlexisLoya](https://github.com/AlexisLoya) |
 | **YouTube** | [Canal](https://www.youtube.com/channel/UCL-6Vchi1y5l765lFOO8iiA) |
+| **X (Twitter)** | [@LasterLG117](https://twitter.com/eseloya) |
 
 ---
 
