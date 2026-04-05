@@ -46,7 +46,7 @@ Construyo **backends en Python/Django**, APIs REST y sistemas empresariales esca
 </div>
 
 <div align="center" style="margin-top:8px">
-  <img height="80" src="https://github-profile-trophy.vercel.app/?username=AlexisLoya&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img height="120" src="https://personal-trophy.vercel.app/api?username=AlexisLoya&theme=midnight_sakura" alt="Resumen de contribuciones en GitHub" />
 </div>
 
 ---
@@ -62,15 +62,15 @@ Construyo **backends en Python/Django**, APIs REST y sistemas empresariales esca
 ## GitHub en vivo (Dinámico)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexisLoya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AlexisLoya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub" />
 </div>
 
 <div align="center" style="margin-top:6px">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisLoya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexisLoya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 </div>
 
 <div align="center" style="margin-top:6px">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AlexisLoya&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=AlexisLoya&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 <div align="center" style="margin-top:12px">
@@ -86,7 +86,7 @@ Construyo **backends en Python/Django**, APIs REST y sistemas empresariales esca
 | **LinkedIn** | [AlexisLoya](https://www.linkedin.com/in/alexisloyag/) |
 | **GitHub** | [@AlexisLoya](https://github.com/AlexisLoya) |
 | **YouTube** | [Canal](https://www.youtube.com/channel/UCL-6Vchi1y5l765lFOO8iiA) |
-| **X (Twitter)** | [@LasterLG117](https://twitter.com/eseloya) |
+| **X (Twitter)** | [@eseloya](https://twitter.com/eseloya) |
 
 ---
 
